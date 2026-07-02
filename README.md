@@ -1,8 +1,5 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Cobra comendo as contribuições de felposb" src="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake.svg" />
-</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=220&section=header&text=felposb&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Estudante+de+Engenharia+de+Software+-+PUCPR&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -130,7 +127,10 @@ jobs:
   <img alt="Cobra comendo as contribuições de felposb" src="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake.svg" />
 </picture>
 ```
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Cobra comendo as contribuições de felposb" src="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake.svg" />
+</picture>
 </details>
 
 <br>
