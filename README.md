@@ -60,8 +60,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felposb&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de felposb"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felposb&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por felposb"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felposb&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felposb&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felposb&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus do GitHub de felposb"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=felposb&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8""/>
 </p>
 
 
