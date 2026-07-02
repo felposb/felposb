@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=220&section=header&text=felposb&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Estudante+de+Engenharia+de+Software+-+PUCPR&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Explorando+Back-end+e+Cibersegurança+%F0%9F%94%90;Botando+a+mão+em+Sistemas+Embarcados+%F0%9F%94%A7;Sempre+com+um+projeto+novo+rodando+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+
 
 <br><br>
 
@@ -76,66 +74,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=felposb&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus do GitHub de felposb"/>
 </p>
 
-<details>
-<summary>🐍 <b>Extra: uma cobra comendo o seu gráfico de contribuições</b></summary>
-<br>
 
-Esse é o detalhe que faz o pessoal perguntar "como você fez isso?". Ele não é automático como os widgets acima — precisa de uma GitHub Action configurada no seu próprio repositório `felposb/felposb`, mas depois de configurada roda sozinha todo dia.
-
-**Passo 1.** No repositório `felposb/felposb`, crie o arquivo `.github/workflows/snake.yml` com o conteúdo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Passo 2.** Em **Settings → Actions → General → Workflow permissions**, marque **Read and write permissions** e salve.
-
-**Passo 3.** Rode a action manualmente uma vez (aba **Actions → Generate Snake Animation → Run workflow**) para gerar a primeira versão.
-
-**Passo 4.** Adicione isso onde quiser exibir a animação no README:
-
-```md
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Cobra comendo as contribuições de felposb" src="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake.svg" />
 </picture>
-```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Cobra comendo as contribuições de felposb" src="https://raw.githubusercontent.com/felposb/felposb/output/github-contribution-grid-snake.svg" />
-</picture>
-</details>
+
 
 <br>
 
-## 📫 Vamos nos conectar
+
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
@@ -151,7 +99,6 @@ jobs:
 
 <div align="center">
 
-<i>Obrigado pela visita! Se algum projeto meu te chamou atenção, fica à vontade pra dar uma estrela ⭐</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=120&section=footer" width="100%"/>
 
