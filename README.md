@@ -86,13 +86,13 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/felipeglma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:gl.feelipe@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=bb9af7" alt="Email"/>
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/felipeglma" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=e0af68" alt="Instagram"/>
   </a>
 </p>
